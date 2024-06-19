@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chakrateja70" alt="chakrateja70" /></a> </p>
 
-- 🌱 I’m currently learning **MERAN STACK**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **tejapolamarasetty2004@gmail.com**
 
